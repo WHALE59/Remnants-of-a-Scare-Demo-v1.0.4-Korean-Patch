@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://store.steampowered.com/app/4171520/Remnants_of_a_Scare/">
-    <img src="https://cdn.akamai.steamstatic.com/steam/apps/4171520/header.jpg" width="460" alt="REMTest">
+    <img src="./Screenshot/header.jpg" width="460" alt="Remnants of a Scare Demo">
   </a>
   <br>
   <sub>이미지 클릭 시 스팀 상점 페이지로 이동합니다.</sub>
