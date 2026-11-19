@@ -15,8 +15,13 @@ Remnants of a Scare Demo v1.0.4 비공식 한글패치 입니다.
 버그, 오역 등이 있다면 이슈 등록해주세요.
 
 ---
+# 공지
+
+<span style="color: red">본 게임을 하기 전에 IMSCARED를 완전히 클리어 하신 후 플레이하는 것을 적극 권장드립니다.
+2022년 이전에 IMSCARED를 클리어 하신 분들 또한 IMSCARED를 다시 플레이하시는 것을 적극 권장드립니다.</span>
 
 
+---
 ### 한글패치, 한글 이미지 제작
 `WHALE59`
 
