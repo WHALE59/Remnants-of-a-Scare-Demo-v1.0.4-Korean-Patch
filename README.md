@@ -17,9 +17,26 @@ Remnants of a Scare Demo v1.0.4 비공식 한글패치 입니다.
 ---
 # 공지
 
-<span style="color: red">본 게임을 하기 전에 IMSCARED를 완전히 클리어 하신 후 플레이하는 것을 적극 권장드립니다.
-2022년 이전에 IMSCARED를 클리어 하신 분들 또한 IMSCARED를 다시 플레이하시는 것을 적극 권장드립니다.</span>
-
+> [!NOTE]  
+> 본 게임을 하기 전에 IMSCARED를 완전히 클리어 하신 후 플레이하는 것을 적극 권장드립니다.
+> 
+> 2022년 이전에 IMSCARED를 클리어 하신 분들 또한 IMSCARED를 다시 플레이하시는 것을 적극 권장드립니다.
+> <p align="center">
+> <a href="https://store.steampowered.com/app/429720/IMSCARED/">
+>    <img src="https://cdn.akamai.steamstatic.com/steam/apps/429720/header.jpg" width="460" alt="Remnants of a Scare Demo">
+>  </a>
+>  <br>
+>  <sub>이미지 클릭 시 스팀 상점 페이지로 이동합니다.</sub>
+> </p>
+>
+>
+> <p align="center">
+> <a href="https://github.com/WHALE59/Imscared---A-Pixelated-Nightmare-Korean-Patch">
+>    <img src="./Screenshot/IMS_header.jpg" width="460" alt="Remnants of a Scare Demo">
+>  </a>
+>  <br>
+>  <sub>이미지 클릭 시 한글패치 주소로 이동합니다.</sub>
+> </p>
 
 ---
 ### 한글패치, 한글 이미지 제작
