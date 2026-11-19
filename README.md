@@ -51,4 +51,4 @@ Remnants of a Scare Demo v1.0.4 비공식 한글패치 입니다.
 
 [Neo 둥근모 Pro font](https://github.com/neodgm/neodgm-pro) (SIL Open Font License 1.1) 
 
-[galmoori font](https://github.com/quiple/galmuri) (SIL Open Font License 1.1) 
+[Galmoori font](https://github.com/quiple/galmuri) (SIL Open Font License 1.1) 
